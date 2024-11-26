@@ -8,7 +8,6 @@
             "watch": false,
             "max_cpu_restart": 95,
             "wait_ready": false,
-            "error_file": "./log/error.log",
             "log_date_format": "HH:mm 〉"
         }
     ]
