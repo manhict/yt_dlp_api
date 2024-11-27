@@ -1,4 +1,4 @@
-# yt-dlp-api
+# yt_dlp_api
 
 Running yt-dlp, youtubei.js, and googlevideo in a dedicated fastify service.
 
