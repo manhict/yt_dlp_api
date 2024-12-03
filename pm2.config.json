@@ -1,7 +1,7 @@
 {
     "apps": [
         {
-            "name": "5000-5001",
+            "name": "ytdlp_5001",
             "script": "npm start watch:python",
             "exec_mode": "fork",
             "instances": "1",
