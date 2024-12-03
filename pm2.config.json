@@ -1,8 +1,8 @@
 {
     "apps": [
         {
-            "name": "ytdlp_5001",
-            "script": "npm start watch:python",
+            "name": "5001-5002",
+            "script": "npm start",
             "exec_mode": "fork",
             "instances": "1",
             "watch": false,
