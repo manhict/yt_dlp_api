@@ -2,7 +2,7 @@
     "apps": [
         {
             "name": "5000-5001",
-            "script": "npm start",
+            "script": "npm start watch:python",
             "exec_mode": "fork",
             "instances": "1",
             "watch": false,
